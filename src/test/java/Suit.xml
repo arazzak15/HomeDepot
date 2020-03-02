@@ -1,0 +1,13 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+
+<suite name="Functional" >
+<test name="Homedepot" >
+<classes>
+
+<class name="com.piit.bootcamp.homedepot.Exe_Homedepot"></class>
+
+
+</classes>
+</test>
+</suite>
